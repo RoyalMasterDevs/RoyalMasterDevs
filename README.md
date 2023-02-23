@@ -12,3 +12,4 @@ https://www.figma.com/file/6JVA75vNG7ccIbBxDRE4Mz/Figma-Curso-Templune---P%C3%A1
 # INTRO CSS 
 HTML GUIA: https://gist.github.com/jobarv/6ef4df7a9a92649f29d282dad1495165
 CSS GUIA: https://gist.github.com/jobarv/f9208f1deea3df921584593ca37de441
+# Clase del 22 de Febrero: Tareas: Revisar estructura HTML, Aplicar una de las metodologías vistas en clase, Terminar en lo posible el proyecto.
